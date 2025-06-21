@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\admineventsviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\admineventsviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\admineventsviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\admineventsviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\adminaddeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\adminaddeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\adminaddeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\adminaddeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\admineventsviewform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\admineventsviewform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|c:\\users\\vadim\\source\\repos\\newrepo5\\windowsformsapp7\\windowsformsapp7\\adminaddeventform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C63CDF-691A-43CA-9594-1CA500C3F07E}|WindowsFormsApp7\\CalendarApp.csproj|solutionrelative:windowsformsapp7\\adminaddeventform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminEventsViewForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Source\\Repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminEventsViewForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\AdminEventsViewForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Source\\Repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminEventsViewForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\AdminEventsViewForm.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:02:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminEventsViewForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminEventsViewForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\AdminEventsViewForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminEventsViewForm.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\AdminEventsViewForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:02:32.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminEventsViewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminEventsViewForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\AdminEventsViewForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminEventsViewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp7\\AdminEventsViewForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:02:28.65Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\MainForm.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:59:46.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAddEventForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminAddEventForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\AdminAddEventForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminAddEventForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp7\\AdminAddEventForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:56:26.976Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAddEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminAddEventForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\AdminAddEventForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminAddEventForm.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\AdminAddEventForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:56:33.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp7\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:58:34.308Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:57:29.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:57:28.836Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:57:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminAddEventForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Source\\Repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminAddEventForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\AdminAddEventForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Source\\Repos\\NewRepo5\\WindowsFormsApp7\\WindowsFormsApp7\\AdminAddEventForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\AdminAddEventForm.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:56:51.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
