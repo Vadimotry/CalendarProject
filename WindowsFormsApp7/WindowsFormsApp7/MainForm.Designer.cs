@@ -1,4 +1,4 @@
-﻿namespace CalendarApp
+namespace CalendarProject
 {
     partial class MainForm
     {
@@ -25,6 +25,13 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.AdmEvents = new System.Windows.Forms.Button();
+            this.weatherPanel = new System.Windows.Forms.Panel();
+            this.weatherIcon = new System.Windows.Forms.PictureBox();
+            this.weatherLabel = new System.Windows.Forms.Label();
+            this.cityComboBox = new System.Windows.Forms.ComboBox();
+            this.refreshWeatherButton = new System.Windows.Forms.Button();
+            this.weatherPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.weatherIcon)).BeginInit();
             this.SuspendLayout();
             // 
             // monthCalendar1
@@ -58,7 +65,6 @@
             this.addEventButton.TabIndex = 3;
             this.addEventButton.Text = "Добавить дело";
             this.addEventButton.UseVisualStyleBackColor = true;
-            this.addEventButton.Click += new System.EventHandler(this.addEventButton_Click);
             // 
             // eventsListBox
             // 
@@ -76,7 +82,6 @@
             this.deleteEventButton.TabIndex = 5;
             this.deleteEventButton.Text = "Удалить дело";
             this.deleteEventButton.UseVisualStyleBackColor = true;
-            this.deleteEventButton.Click += new System.EventHandler(this.deleteEventButton_Click);
             // 
             // clearDateButton
             // 
@@ -86,7 +91,6 @@
             this.clearDateButton.TabIndex = 6;
             this.clearDateButton.Text = "Очистить все дела на выбранную дату";
             this.clearDateButton.UseVisualStyleBackColor = true;
-            this.clearDateButton.Click += new System.EventHandler(this.clearDateButton_Click);
             // 
             // label1
             // 
@@ -114,13 +118,83 @@
             this.AdmEvents.TabIndex = 9;
             this.AdmEvents.Text = "События добавленные администратором";
             this.AdmEvents.UseVisualStyleBackColor = true;
-            this.AdmEvents.Click += new System.EventHandler(this.AdmEvents_Click);
+            // 
+            // weatherPanel
+            // 
+            this.weatherPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.weatherPanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(255)))));
+            this.weatherPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.weatherPanel.Controls.Add(this.weatherIcon);
+            this.weatherPanel.Controls.Add(this.weatherLabel);
+            this.weatherPanel.Controls.Add(this.cityComboBox);
+            this.weatherPanel.Controls.Add(this.refreshWeatherButton);
+            this.weatherPanel.Location = new System.Drawing.Point(600, 10);
+            this.weatherPanel.Name = "weatherPanel";
+            this.weatherPanel.Size = new System.Drawing.Size(200, 120);
+            this.weatherPanel.TabIndex = 10;
+            // 
+            // weatherIcon
+            // 
+            this.weatherIcon.BackColor = System.Drawing.Color.Transparent;
+            this.weatherIcon.Location = new System.Drawing.Point(10, 40);
+            this.weatherIcon.Name = "weatherIcon";
+            this.weatherIcon.Size = new System.Drawing.Size(50, 50);
+            this.weatherIcon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.weatherIcon.TabIndex = 2;
+            this.weatherIcon.TabStop = false;
+            // 
+            // weatherLabel
+            // 
+            this.weatherLabel.AutoSize = false;
+            this.weatherLabel.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.weatherLabel.Location = new System.Drawing.Point(70, 40);
+            this.weatherLabel.Name = "weatherLabel";
+            this.weatherLabel.Size = new System.Drawing.Size(120, 70);
+            this.weatherLabel.TabIndex = 3;
+            this.weatherLabel.Text = "Выберите город";
+            this.weatherLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // cityComboBox
+            // 
+            this.cityComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cityComboBox.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.cityComboBox.FormattingEnabled = true;
+            this.cityComboBox.Items.AddRange(new object[] {
+            "Москва",
+            "Санкт-Петербург",
+            "Новосибирск",
+            "Красноярск",
+            "Екатеринбург",
+            "Казань",
+            "Нижний Новгород",
+            "Челябинск",
+            "Самара",
+            "Омск",
+            "Ростов-на-Дону"});
+            this.cityComboBox.Location = new System.Drawing.Point(10, 10);
+            this.cityComboBox.Name = "cityComboBox";
+            this.cityComboBox.Size = new System.Drawing.Size(140, 23);
+            this.cityComboBox.TabIndex = 1;
+            // 
+            // refreshWeatherButton
+            // 
+            this.refreshWeatherButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.refreshWeatherButton.BackColor = System.Drawing.Color.White;
+            this.refreshWeatherButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.refreshWeatherButton.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.refreshWeatherButton.Location = new System.Drawing.Point(160, 10);
+            this.refreshWeatherButton.Name = "refreshWeatherButton";
+            this.refreshWeatherButton.Size = new System.Drawing.Size(30, 23);
+            this.refreshWeatherButton.TabIndex = 0;
+            this.refreshWeatherButton.Text = "⟳";
+            this.refreshWeatherButton.UseVisualStyleBackColor = false;
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(584, 281);
+            this.ClientSize = new System.Drawing.Size(812, 450);
+            this.Controls.Add(this.weatherPanel);
             this.Controls.Add(this.AdmEvents);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -132,8 +206,9 @@
             this.Controls.Add(this.dateLabel);
             this.Controls.Add(this.monthCalendar1);
             this.Name = "MainForm";
-            this.Text = "Календарь дел";
-            this.Load += new System.EventHandler(this.MainForm_Load);
+            this.Text = "Календарь";
+            this.weatherPanel.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.weatherIcon)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -149,5 +224,10 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button AdmEvents;
+        private System.Windows.Forms.Panel weatherPanel;
+        private System.Windows.Forms.PictureBox weatherIcon;
+        private System.Windows.Forms.Label weatherLabel;
+        private System.Windows.Forms.ComboBox cityComboBox;
+        private System.Windows.Forms.Button refreshWeatherButton;
     }
 }
